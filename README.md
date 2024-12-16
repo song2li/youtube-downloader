@@ -27,7 +27,7 @@ A simple and user-friendly YouTube downloader with GUI interface built using Pyt
 Before running the application, make sure you have the following installed:
 
 1. Python 3.6 or higher
-2. Required Python packages:   ```bash
+2. Required Python packages:   ```
    pip install yt-dlp tkinter   ```
 3. FFmpeg:
    - Download FFmpeg from https://github.com/BtbN/FFmpeg-Builds/releases
